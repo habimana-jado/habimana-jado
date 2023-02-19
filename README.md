@@ -14,10 +14,20 @@
 ## My favorite tools and technologies ⚙️ 
 
 <table align="center">
-
+			<tr>
+			  <th></th>
+			  <th></th>
+			  <th></th>
+			  <th></th>
+			  <th></th>
+			  <th></th>
+			  <th></th>
+			  <th></th>
+			  <th></th>
+			</tr>
 			<tr>
 				<td align="center">
-					<img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="48" height="48" alt="JAVA" />
+					<img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="JAVA" />
 					<br>JAVA
 				</td>
 				
@@ -27,12 +37,12 @@
 				</td>
 				
 				<td align="center"  >
-					<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="65" height="65" />
+					<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="65" height="65" />
 					<br>Kafka
 				</td>
 				
 				<td align="center"  >
-					<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="Flutter" />
+					<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="Flutter" />
 					<br>Flutter
 				</td>    
 				
@@ -51,12 +61,12 @@
 				 </td>
 				
 				<td align="center"  >
-					<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/prometheusio/prometheusio-ar21.svg" alt="Prometheus" width="40" height="40"/>
+					<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
 					<br>Prometheus
 				</td>
 			  
 				<td align="center"  >
-					<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/grafana/grafana-ar21.svg" alt="Grafana" width="40" height="40"/> </a>
+					<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> </a>
 					<br>Grafana
 				</td>
 			   
@@ -64,7 +74,7 @@
 
 			<tr>
 				<td align="center"  >
-					<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+					<img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="Git" />
 					<br>Git
 				</td>
 			  
@@ -79,7 +89,7 @@
 				</td>
 			  
 				<td align="center"  >
-					<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/bitbucket/bitbucket-official.svg" alt="Bitbucket" width="40" height="40"/>
+					<img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="Bitbucket" width="40" height="40"/>
 					<br>BitBucket
 				</td>
 				
@@ -99,7 +109,7 @@
 				</td>
 			  
 				<td align="center"  >
-					<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+					<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
 					<br>MySQL
 				</td>
 			  
@@ -143,21 +153,20 @@
 				</td>
 				
 				<td align="center"  >
-					<img src="https://d33wubrfki0l68.cloudfront.net/0500f578e23edba301550e82d07907f9f0835289/9cc8a/img/logo/svg/monochrome_light.svg" width="48" height="48" alt="Bash Shell" />
+					<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/fdb7246b-92e5-4075-a409-7bf063232e08/dasqpbj-aad85fed-d1cb-4050-83e4-d8ba0f8ae998.png" width="48" height="48" alt="Bash Shell" />
 					<br>Bash Shell
 				</td>
 				
 				<td align="center"   >
-					<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jenkins/jenkins-official.svg" alt="Jenkins" width="40" height="40"/> 
+					<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> 
 					<br>Jenkins
 				</td>
 			  
 				<td align="center"  >
-					<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/ansible/ansible-ar21.svg" alt="Ansible" width="40" height="40"/>
+					<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
 					<br>Ansible
 				</td>
 		  
 			</tr>
 
 		</table>
-
